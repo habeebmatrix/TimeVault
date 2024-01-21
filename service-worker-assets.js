@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-DmJvoDvL0WfSZsmy4\/Yx6K7O3iOEpC4ogJ3Gp5jQg8I=",
+      "hash": "sha256-0j6dOIuGmfPH0QgprLf3oXAwMB\/Fy5roJybmv0obN1U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-d3nipkihwRR2Ce9blMEX+dimeHjaLmRfbGUCIkdX+\/M=",
+      "hash": "sha256-zGs0N\/zlKvA8smd\/a\/a24lhGIrm7b0d\/23mcWAnGyuQ=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-puvaTBigoxqfcyNqS0xZAb4gH4SIDuqn+zAo1dOrsGk=",
+      "hash": "sha256-iIEKhBIme8v9HGMZyJkrxwS7etfAGq3Qgtdue7lrPO4=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -145,7 +145,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-q3WdshoZnI8crDunPs9hqfuI4RwjAQ6rXlimFEHqQz4=",
+      "hash": "sha256-K1DILjK1oMvAA1ksZah41c\/FESWEGTOs\/lDpmBuBj\/4=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -161,7 +161,7 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-Ee6o1b4BWKfwDy13h2fPIopNEfS\/wBV7bXx9RPjMD6s=",
+      "hash": "sha256-dD44tqRjVabkxuuKRm+qnQi16zYt3\/zAqcZxPj\/t56I=",
       "url": "_framework\/TimeVaultPWA.wasm"
     },
     {
@@ -205,5 +205,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "NpMl7Z2I"
+  "version": "w1G+Sjy5"
 };
