@@ -1,6 +1,6 @@
 {
-  "name": "TimeVaultPWA",
-  "short_name": "TimeVaultPWA",
+  "name": "Time Vault",
+  "short_name": "Time Vault",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
